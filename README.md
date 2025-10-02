@@ -1,4 +1,3 @@
-```markdown
 # 🚗 Used Car Price Prediction (Pakistan Market)
 
 This project predicts **used car prices** based on scraped data from [Pakwheels](https://www.pakwheels.com/used-cars/).  
@@ -78,26 +77,6 @@ data collection → cleaning → EDA → feature engineering → model building 
 
 ---
 
-## 📂 Repository Structure  
-
-```
-
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-├── notebooks/
-│   ├── 01_webscraping.ipynb
-│   ├── 02_cleaning_eda.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_modeling.ipynb
-│   └── 05_deployment.ipynb
-├── models/
-│   ├── final_lgbm_pipeline.pkl
-└── README.md
-
-```
----
-
 ## 🔑 Key Learnings  
 
 - Designing end-to-end ML pipelines for real-world data.  
@@ -112,7 +91,6 @@ data collection → cleaning → EDA → feature engineering → model building 
 
 **Basharat Asghar**  
 - Data Scientist | ML Enthusiast  
-- [LinkedIn](https://www.linkedin.com/in/basharat-asghar) | [GitHub]([https://github.com](https://github.com/Basharat-Asghar))  
+- [LinkedIn](https://www.linkedin.com/in/basharat-asghar) | [GitHub](https://github.com/Basharat-Asghar)  
 
 ---
-```
