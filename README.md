@@ -90,7 +90,7 @@ data collection → cleaning → EDA → feature engineering → model building 
 ## 👨‍💻 Author  
 
 **Basharat Asghar**  
-- Data Scientist | ML Enthusiast  
+- Data Scientist | Machine Learning Practitioner  
 - [LinkedIn](https://www.linkedin.com/in/basharat-asghar) | [GitHub](https://github.com/Basharat-Asghar)  
 
 ---
